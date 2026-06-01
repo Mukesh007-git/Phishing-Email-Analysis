@@ -1,4 +1,4 @@
-# Task 2 - Phishing Email Analysis
+# Phishing Email Analysis
 
 ## Objective
 Analyze a phishing email sample and identify phishing indicators.
